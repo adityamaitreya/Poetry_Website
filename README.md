@@ -134,7 +134,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For questions or suggestions, please reach out:
 - Email: adityamaitreya10@gmail.com
-- GitHub: [@yourusername](https://github.com/adityamaitreya)
+- GitHub: [@adityamaitreya](https://github.com/adityamaitreya)
 
 ---
 
