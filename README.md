@@ -133,8 +133,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For questions or suggestions, please reach out:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: adityamaitreya10@gmail.com
+- GitHub: [@yourusername](https://github.com/adityamaitreya)
 
 ---
 
